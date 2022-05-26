@@ -1,0 +1,7 @@
+5 porte-avions
+4 croiseur1
+4 croiseur2
+3 contre-torpilleur
+3 sous-marin
+2 torpilleur1
+2 torpilleur2
